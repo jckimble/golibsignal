@@ -3,7 +3,7 @@ package libsignal
 import (
 	"bytes"
 	"fmt"
-	"gitlab.com/jckimble/golibsignal/signalservice"
+	"github.com/jckimble/golibsignal/signalservice"
 
 	"crypto/aes"
 	"crypto/cipher"

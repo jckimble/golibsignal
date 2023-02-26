@@ -7,9 +7,9 @@ import (
 
 	"bufio"
 	"database/sql"
+	"github.com/jckimble/golibsignal"
+	"github.com/jckimble/golibsignal/store/sql"
 	_ "github.com/mattn/go-sqlite3"
-	"gitlab.com/jckimble/golibsignal"
-	"gitlab.com/jckimble/golibsignal/store/sql"
 	"os"
 	"strings"
 )

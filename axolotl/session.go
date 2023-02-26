@@ -11,8 +11,8 @@ import (
 
 	"github.com/aebruno/textsecure/curve25519sign"
 	"github.com/golang/protobuf/proto"
-	protobuf "gitlab.com/jckimble/golibsignal/axolotl/protobuf"
-	"gitlab.com/jckimble/golibsignal/signalservice"
+	protobuf "github.com/jckimble/golibsignal/axolotl/protobuf"
+	"github.com/jckimble/golibsignal/signalservice"
 )
 
 type sessionState struct {

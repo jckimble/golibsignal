@@ -6,8 +6,8 @@ import (
 	"net/http"
 
 	"bufio"
-	"gitlab.com/jckimble/golibsignal"
-	"gitlab.com/jckimble/golibsignal/store/file"
+	"github.com/jckimble/golibsignal"
+	"github.com/jckimble/golibsignal/store/file"
 	"os"
 	"strings"
 )

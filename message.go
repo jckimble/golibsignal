@@ -8,8 +8,8 @@ import (
 	"time"
 
 	"github.com/golang/protobuf/proto"
-	"gitlab.com/jckimble/golibsignal/axolotl"
-	"gitlab.com/jckimble/golibsignal/signalservice"
+	"github.com/jckimble/golibsignal/axolotl"
+	"github.com/jckimble/golibsignal/signalservice"
 
 	"log"
 )

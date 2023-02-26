@@ -1,5 +1,5 @@
 # golibsignal
-[![pipeline status](https://gitlab.com/jckimble/golibsignal/badges/master/pipeline.svg)](https://gitlab.com/jckimble/golibsignal/commits/master)
+![build status](https://github.com/jckimble/golibsignal/actions/workflows/build.yml/badge.svg?branch=master)
 
 golibsignal is a library for accessing signal servers. Written cause I wasn't happy with the state of the textsecure library.
 
@@ -12,7 +12,7 @@ golibsignal is a library for accessing signal servers. Written cause I wasn't ha
 
 ## Install
 ```sh
-go get -u gitlab.com/jckimble/golibsignal
+go get -u github.com/jckimble/golibsignal
 ```
 
 ## Roadmap

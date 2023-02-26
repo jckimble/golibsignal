@@ -4,7 +4,7 @@ import (
 	"encoding/base64"
 	"encoding/json"
 	"fmt"
-	"gitlab.com/jckimble/golibsignal/axolotl"
+	"github.com/jckimble/golibsignal/axolotl"
 	"io"
 	"strings"
 )

@@ -5,7 +5,7 @@ import (
 	"sync"
 
 	"database/sql"
-	"gitlab.com/jckimble/golibsignal/axolotl"
+	"github.com/jckimble/golibsignal/axolotl"
 )
 
 type SessionStore struct {

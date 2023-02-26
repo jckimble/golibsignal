@@ -4,7 +4,7 @@ import (
 	"database/sql"
 	"fmt"
 
-	"gitlab.com/jckimble/golibsignal"
+	"github.com/jckimble/golibsignal"
 )
 
 type GroupStore struct {

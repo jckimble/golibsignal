@@ -7,7 +7,7 @@ package axolotl
 
 import (
 	"github.com/golang/protobuf/proto"
-	protobuf "gitlab.com/jckimble/golibsignal/axolotl/protobuf"
+	protobuf "github.com/jckimble/golibsignal/axolotl/protobuf"
 )
 
 var maxValue uint32 = 0xFFFFFF

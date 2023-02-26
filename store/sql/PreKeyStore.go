@@ -3,7 +3,7 @@ package sqlstore
 import (
 	"database/sql"
 	"fmt"
-	"gitlab.com/jckimble/golibsignal/axolotl"
+	"github.com/jckimble/golibsignal/axolotl"
 )
 
 type PreKeyStore struct {

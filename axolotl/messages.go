@@ -7,7 +7,7 @@ import (
 	"crypto/hmac"
 	"errors"
 
-	protobuf "gitlab.com/jckimble/golibsignal/axolotl/protobuf"
+	protobuf "github.com/jckimble/golibsignal/axolotl/protobuf"
 
 	"github.com/golang/protobuf/proto"
 )

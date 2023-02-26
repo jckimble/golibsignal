@@ -4,7 +4,7 @@ import (
 	"bytes"
 	"database/sql"
 	"fmt"
-	"gitlab.com/jckimble/golibsignal/axolotl"
+	"github.com/jckimble/golibsignal/axolotl"
 	"strconv"
 )
 

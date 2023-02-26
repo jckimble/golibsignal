@@ -6,7 +6,7 @@ import (
 	"os"
 	"path/filepath"
 
-	"gitlab.com/jckimble/golibsignal/axolotl"
+	"github.com/jckimble/golibsignal/axolotl"
 )
 
 type SignedPreKeyStore struct {

@@ -2,7 +2,7 @@ package libsignal
 
 import (
 	"bytes"
-	"gitlab.com/jckimble/golibsignal/signalservice"
+	"github.com/jckimble/golibsignal/signalservice"
 	"io"
 
 	"encoding/json"

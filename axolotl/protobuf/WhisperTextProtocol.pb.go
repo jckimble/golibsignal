@@ -6,11 +6,13 @@
 Package textsecure is a generated protocol buffer package.
 
 It is generated from these files:
+
 	WhisperTextProtocol.proto
 	LocalStorageProtocol.proto
 	FingerprintProtocol.proto
 
 It has these top-level messages:
+
 	SignalMessage
 	PreKeySignalMessage
 	KeyExchangeMessage

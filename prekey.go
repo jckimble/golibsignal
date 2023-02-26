@@ -5,7 +5,7 @@ import (
 	"strconv"
 
 	"github.com/aebruno/textsecure/curve25519sign"
-	"gitlab.com/jckimble/golibsignal/axolotl"
+	"github.com/jckimble/golibsignal/axolotl"
 
 	"time"
 )

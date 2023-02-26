@@ -1,7 +1,7 @@
 package filestore
 
 import (
-	"gitlab.com/jckimble/golibsignal"
+	"github.com/jckimble/golibsignal"
 	"gopkg.in/yaml.v2"
 	"io/ioutil"
 	"os"

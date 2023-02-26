@@ -3,7 +3,7 @@ package sqlstore
 import (
 	"database/sql"
 	"fmt"
-	"gitlab.com/jckimble/golibsignal"
+	"github.com/jckimble/golibsignal"
 )
 
 type ContactStore struct {

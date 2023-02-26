@@ -1,7 +1,7 @@
 package libsignal
 
 import (
-	"gitlab.com/jckimble/golibsignal/signalservice"
+	"github.com/jckimble/golibsignal/signalservice"
 
 	"errors"
 	"fmt"

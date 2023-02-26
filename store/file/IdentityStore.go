@@ -2,7 +2,7 @@ package filestore
 
 import (
 	"fmt"
-	"gitlab.com/jckimble/golibsignal/axolotl"
+	"github.com/jckimble/golibsignal/axolotl"
 	"io/ioutil"
 	"path/filepath"
 	"strconv"

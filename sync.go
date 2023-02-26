@@ -3,7 +3,7 @@ package libsignal
 import (
 	"errors"
 	"fmt"
-	"gitlab.com/jckimble/golibsignal/signalservice"
+	"github.com/jckimble/golibsignal/signalservice"
 
 	"github.com/golang/protobuf/proto"
 )

@@ -7,7 +7,7 @@ import (
 	"path/filepath"
 	"strings"
 
-	"gitlab.com/jckimble/golibsignal"
+	"github.com/jckimble/golibsignal"
 )
 
 type GroupStore struct {
